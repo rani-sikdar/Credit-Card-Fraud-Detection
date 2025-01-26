@@ -7,7 +7,6 @@ Nowadays most people prefer to do payments by cards and don’t like to carry ca
 
 Credit card frauds are easy to do, as we know that E-commerce and many other online sites have increased the online payment modes, Which affects increasing the risk of online frauds.
 
-Credit card fraud is becoming the most common fraud people tend to do. So in this article by ProjectGurukul we are going to detect credit card fraud using Machine Learning.
 
 #### About Credit Card Fraud Detection Project:
 We need to find anomalies in the system for the companies that have a lot of transactions with the use of cards.
