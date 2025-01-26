@@ -37,3 +37,6 @@ pip install numpy pandas matplotlib seaborn sklearn
 Logistic regression is a type of Supervised learning technique. It is the most popular Machine Learning algorithm, which is used to predict the probability of target variables. Logistic regression predicts the output of a categorical dependent variable which means there would be only two possible classes.
 
 This is one of the simplest Machine Learning algorithms used for various classification problems such as spam detection, cancer detection etc.
+
+### Dataset link- 
+https://drive.google.com/drive/folders/1kTJ2jF8pvTX4W9HBB2Q1mrA9VuHB0XQ8?usp=sharing
