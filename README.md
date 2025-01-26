@@ -1,7 +1,8 @@
 # Credit-Card-Fraud-Detection
 
-#### What is Credit Card Fraud Detection?
+  ![credit-card-fraud](https://github.com/user-attachments/assets/eef97a95-f8d2-443e-a3d8-2b8285fcc536)
 
+#### What is Credit Card Fraud Detection?
 Nowadays most people prefer to do payments by cards and don’t like to carry cash with them. That leads to an increase in the use of cards and also thereby frauds.
 
 Credit card frauds are easy to do, as we know that E-commerce and many other online sites have increased the online payment modes, Which affects increasing the risk of online frauds.
