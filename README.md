@@ -1,6 +1,10 @@
 # Credit-Card-Fraud-Detection
 
-  ![credit-card-fraud](https://github.com/user-attachments/assets/eef97a95-f8d2-443e-a3d8-2b8285fcc536)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eef97a95-f8d2-443e-a3d8-2b8285fcc536" 
+       alt="credit-card-fraud" 
+       width="500"/>
+</p>
 
 #### What is Credit Card Fraud Detection?
 Nowadays most people prefer to do payments by cards and don’t like to carry cash with them. That leads to an increase in the use of cards and also thereby frauds.
@@ -37,5 +41,5 @@ Logistic regression is a type of Supervised learning technique. It is the most p
 
 This is one of the simplest Machine Learning algorithms used for various classification problems such as spam detection, cancer detection etc.
 
-### Dataset link- 
-https://drive.google.com/drive/folders/1kTJ2jF8pvTX4W9HBB2Q1mrA9VuHB0XQ8?usp=sharing
+## 📊 Dataset
+- [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
